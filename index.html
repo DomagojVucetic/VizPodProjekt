@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Globalni prikaz religija</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+    <h1 class="center">World religions</h1>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.js"></script>
+    <script src="main.js"></script>
+
+    <div class="details">
+      <div class="dropdown">
+        <select id="religion-select">
+          <option value="all">All Religions</option>
+          <option value="Christianity">Christianity</option>
+          <option value="Islam">Islam</option>
+          <option value="Buddhism">Buddhism</option>
+          <option value="Hinduism">Hinduism</option>
+          <option value="nondenominational">nondenominational</option>
+        </select>
+      </div>
+      <div class="legend">
+        <p>
+          <img src="images/red.png" style="height: 20px;", width="20px">
+          Christianity
+        </p>
+        <p>
+          <img src="images/green.png" style="height: 20px;", width="20px">
+          Islam</p>
+        <p>
+          <img src="images/blue.png" style="height: 20px;", width="20px">
+          Buddhism</p>
+        <p>
+          <img src="images/yellow.png" style="height: 20px;", width="20px">
+          Hinduism</p>
+        <p>
+          <img src="images/purple.png" style="height: 20px;", width="20px">
+          nondenominational</p>
+        <p>
+          <img src="images/black.png" style="height: 20px;", width="20px">
+          Other</p>
+      </div>
+      <h2 class="country"></h2>
+      <div id="chart-container" class="chart"></div>
+    </div>
+  </body>
+</html>

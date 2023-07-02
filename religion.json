@@ -1,0 +1,1603 @@
+[
+ {
+  "Name": "Afghanistan",
+  "Christianity": 0,
+  "Islam": 99,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Albania",
+  "Christianity": 16.9,
+  "Islam": 56.7,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 26.4
+ },
+ {
+  "Name": "Algeria",
+  "Christianity": 0,
+  "Islam": 99,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Angola",
+  "Christianity": 53,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 47
+ },
+ {
+  "Name": "Argentina",
+  "Christianity": 94,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6
+ },
+ {
+  "Name": "Armenia",
+  "Christianity": 93.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6.4
+ },
+ {
+  "Name": "Australia",
+  "Christianity": 62.1,
+  "Islam": 2.2,
+  "Hinduism": 0,
+  "Buddhism": 2.5,
+  "nondenominational": 22.3,
+  "Other": 10.9
+ },
+ {
+  "Name": "Austria",
+  "Christianity": 80.9,
+  "Islam": 4.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 12,
+  "Other": 2.9
+ },
+ {
+  "Name": "Azerbaijan",
+  "Christianity": 4.8,
+  "Islam": 93.4,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1.8
+ },
+ {
+  "Name": "Bahamas",
+  "Christianity": 94,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6
+ },
+ {
+  "Name": "Bahrain",
+  "Christianity": 0,
+  "Islam": 70.3,
+  "Hinduism": 9.8,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 19.9
+ },
+ {
+  "Name": "Bangladesh",
+  "Christianity": 0,
+  "Islam": 89.5,
+  "Hinduism": 9.6,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.9
+ },
+ {
+  "Name": "Belarus",
+  "Christianity": 80,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 20
+ },
+ {
+  "Name": "Belgium",
+  "Christianity": 75,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 25
+ },
+ {
+  "Name": "Belize",
+  "Christianity": 73.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 26.7
+ },
+ {
+  "Name": "Benin",
+  "Christianity": 42.8,
+  "Islam": 24.4,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 32.8
+ },
+ {
+  "Name": "Bhutan",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 22.1,
+  "Buddhism": 75.3,
+  "nondenominational": 0,
+  "Other": 2.6
+ },
+ {
+  "Name": "Bolivia",
+  "Christianity": 92.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 5.5,
+  "Other": 1.7
+ },
+ {
+  "Name": "Bosnia and Herz.",
+  "Christianity": 45.9,
+  "Islam": 50.7,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.4
+ },
+ {
+  "Name": "Botswana",
+  "Christianity": 71.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 20.6,
+  "Other": 7.8
+ },
+ {
+  "Name": "Brazil",
+  "Christianity": 87.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 8,
+  "Other": 4.5
+ },
+ {
+  "Name": "Brunei",
+  "Christianity": 0,
+  "Islam": 78.8,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 21.2
+ },
+ {
+  "Name": "Bulgaria",
+  "Christianity": 77.9,
+  "Islam": 10,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 11.8,
+  "Other": 0.3
+ },
+ {
+  "Name": "Burkina Faso",
+  "Christianity": 23.2,
+  "Islam": 60.5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 16.3
+ },
+ {
+  "Name": "Burundi",
+  "Christianity": 86,
+  "Islam": 2.5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 11.5
+ },
+ {
+  "Name": "Cambodia",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 95.9,
+  "nondenominational": 0,
+  "Other": 4.1
+ },
+ {
+  "Name": "Cameroon",
+  "Christianity": 40,
+  "Islam": 20,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 40
+ },
+ {
+  "Name": "Canada",
+  "Christianity": 67.2,
+  "Islam": 3.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 23.9,
+  "Other": 5.7
+ },
+ {
+  "Name": "Cape Verde",
+  "Christianity": 85.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 14.7
+ },
+ {
+  "Name": "Central African Rep.",
+  "Christianity": 50,
+  "Islam": 15,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 35
+ },
+ {
+  "Name": "Chad",
+  "Christianity": 34.3,
+  "Islam": 53.1,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 3.1,
+  "Other": 9.5
+ },
+ {
+  "Name": "Chile",
+  "Christianity": 84.1,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 11.5,
+  "Other": 4.4
+ },
+ {
+  "Name": "China",
+  "Christianity": 2.3,
+  "Islam": 0,
+  "Hinduism": 0.1,
+  "Buddhism": 6.2,
+  "nondenominational": 58.5,
+  "Other": 32.9
+ },
+ {
+  "Name": "Colombia",
+  "Christianity": 90,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Comoros",
+  "Christianity": 0,
+  "Islam": 98,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2
+ },
+ {
+  "Name": "Costa Rica",
+  "Christianity": 92,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 8
+ },
+ {
+  "Name": "Croatia",
+  "Christianity": 90.7,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 9.3
+ },
+ {
+  "Name": "Cuba",
+  "Christianity": 71,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 24,
+  "Other": 5
+ },
+ {
+  "Name": "Cyprus",
+  "Christianity": 94,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6
+ },
+ {
+  "Name": "Czech Rep.",
+  "Christianity": 11.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 34.5,
+  "Other": 54
+ },
+ {
+  "Name": "Dem. Rep. Congo",
+  "Christianity": 80,
+  "Islam": 10,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 10,
+  "Other": 0
+ },
+ {
+  "Name": "Denmark",
+  "Christianity": 86.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 13.7
+ },
+ {
+  "Name": "Djibouti",
+  "Christianity": 0,
+  "Islam": 94,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6
+ },
+ {
+  "Name": "Dominican Rep.",
+  "Christianity": 95,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 5
+ },
+ {
+  "Name": "East Timor",
+  "Christianity": 99.1,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.9
+ },
+ {
+  "Name": "Ecuador",
+  "Christianity": 85.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 7.9,
+  "Other": 6.5
+ },
+ {
+  "Name": "Egypt",
+  "Christianity": 9.7,
+  "Islam": 90,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.3
+ },
+ {
+  "Name": "El Salvador",
+  "Christianity": 80.9,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 16.8,
+  "Other": 2.3
+ },
+ {
+  "Name": "Eritrea",
+  "Christianity": 50,
+  "Islam": 50,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0
+ },
+ {
+  "Name": "Estonia",
+  "Christianity": 28.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 54.1,
+  "Other": 17.6
+ },
+ {
+  "Name": "Eswatini",
+  "Christianity": 90,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Ethiopia",
+  "Christianity": 62.7,
+  "Islam": 33.9,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.4
+ },
+ {
+  "Name": "Fiji",
+  "Christianity": 64.5,
+  "Islam": 0,
+  "Hinduism": 27.9,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 7.6
+ },
+ {
+  "Name": "Finland",
+  "Christianity": 80.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 19.2,
+  "Other": 0.2
+ },
+ {
+  "Name": "France",
+  "Christianity": 64,
+  "Islam": 8,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 24,
+  "Other": 4
+ },
+ {
+  "Name": "French Polynesia",
+  "Christianity": 84,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 16
+ },
+ {
+  "Name": "Gabon",
+  "Christianity": 83,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 17
+ },
+ {
+  "Name": "Gambia",
+  "Christianity": 0,
+  "Islam": 90,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Georgia",
+  "Christianity": 88.6,
+  "Islam": 9.9,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1.5
+ },
+ {
+  "Name": "Germany",
+  "Christianity": 58.5,
+  "Islam": 4.7,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 31,
+  "Other": 5.8
+ },
+ {
+  "Name": "Ghana",
+  "Christianity": 71.2,
+  "Islam": 17.6,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 5.2,
+  "Other": 6
+ },
+ {
+  "Name": "Greece",
+  "Christianity": 98,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2
+ },
+ {
+  "Name": "Guatemala",
+  "Christianity": 87,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 13
+ },
+ {
+  "Name": "Guinea",
+  "Christianity": 8,
+  "Islam": 85,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 7
+ },
+ {
+  "Name": "Guinea-Bissau",
+  "Christianity": 22.1,
+  "Islam": 45.1,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 32.8
+ },
+ {
+  "Name": "Guyana",
+  "Christianity": 57.4,
+  "Islam": 0,
+  "Hinduism": 28.4,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 14.2
+ },
+ {
+  "Name": "Haiti",
+  "Christianity": 83.2,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 10.2,
+  "Other": 6.6
+ },
+ {
+  "Name": "Honduras",
+  "Christianity": 100,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "Other": 0
+ },
+ {
+  "Name": "Hong Kong",
+  "Christianity": 11.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 21.3,
+  "nondenominational": 0,
+  "Other": 66.9
+ },
+ {
+  "Name": "Hungary",
+  "Christianity": 52.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 18.2,
+  "Other": 29
+ },
+ {
+  "Name": "Iceland",
+  "Christianity": 83.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 16.7
+ },
+ {
+  "Name": "India",
+  "Christianity": 2.3,
+  "Islam": 13,
+  "Hinduism": 79.8,
+  "Buddhism": 0.7,
+  "nondenominational": 0,
+  "Other": 4.2
+ },
+ {
+  "Name": "Indonesia",
+  "Christianity": 9.9,
+  "Islam": 87.2,
+  "Hinduism": 1.7,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1.2
+ },
+ {
+  "Name": "Iran",
+  "Christianity": 0,
+  "Islam": 96.5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.5
+ },
+ {
+  "Name": "Iraq",
+  "Christianity": 0,
+  "Islam": 97,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3
+ },
+ {
+  "Name": "Ireland",
+  "Christianity": 90.1,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 5.7,
+  "Other": 4.2
+ },
+ {
+  "Name": "Israel",
+  "Christianity": 0,
+  "Islam": 19.3,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 80.7
+ },
+ {
+  "Name": "Italy",
+  "Christianity": 91.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 5.8,
+  "Other": 2.6
+ },
+ {
+  "Name": "Ivory Coast",
+  "Christianity": 32.8,
+  "Islam": 38.6,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 16.7,
+  "Other": 11.9
+ },
+ {
+  "Name": "Jamaica",
+  "Christianity": 66,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 21.3,
+  "Other": 12.7
+ },
+ {
+  "Name": "Japan",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 66.8,
+  "nondenominational": 0,
+  "Other": 33.2
+ },
+ {
+  "Name": "Jordan",
+  "Christianity": 5,
+  "Islam": 94.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.8
+ },
+ {
+  "Name": "Kazakhstan",
+  "Christianity": 26.2,
+  "Islam": 70.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 2.8,
+  "Other": 0.8
+ },
+ {
+  "Name": "Kenya",
+  "Christianity": 82.5,
+  "Islam": 11.1,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 2.4,
+  "Other": 4
+ },
+ {
+  "Name": "Kosovo",
+  "Christianity": 0,
+  "Islam": 95.6,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 4.4
+ },
+ {
+  "Name": "Kuwait",
+  "Christianity": 16,
+  "Islam": 73.2,
+  "Hinduism": 8.3,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2.5
+ },
+ {
+  "Name": "Kyrgyzstan",
+  "Christianity": 20,
+  "Islam": 75,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 5
+ },
+ {
+  "Name": "Laos",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 66.8,
+  "nondenominational": 0,
+  "Other": 33.2
+ },
+ {
+  "Name": "Latvia",
+  "Christianity": 35.9,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 64.1
+ },
+ {
+  "Name": "Lebanon",
+  "Christianity": 40.5,
+  "Islam": 58.5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Lesotho",
+  "Christianity": 80,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 20
+ },
+ {
+  "Name": "Liberia",
+  "Christianity": 85.6,
+  "Islam": 12.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2.2
+ },
+ {
+  "Name": "Libya",
+  "Christianity": 0,
+  "Islam": 96.6,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.4
+ },
+ {
+  "Name": "Lithuania",
+  "Christianity": 82.9,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 17.1
+ },
+ {
+  "Name": "Luxembourg",
+  "Christianity": 87,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 13
+ },
+ {
+  "Name": "Macao",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 50,
+  "nondenominational": 0,
+  "Other": 50
+ },
+ {
+  "Name": "Madagascar",
+  "Christianity": 41,
+  "Islam": 7,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 52
+ },
+ {
+  "Name": "Malawi",
+  "Christianity": 82.6,
+  "Islam": 13,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 2.5,
+  "Other": 1.9
+ },
+ {
+  "Name": "Malaysia",
+  "Christianity": 9.2,
+  "Islam": 61.3,
+  "Hinduism": 6.3,
+  "Buddhism": 19.8,
+  "nondenominational": 0,
+  "Other": 3.4
+ },
+ {
+  "Name": "Maldives",
+  "Christianity": 0,
+  "Islam": 100,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0
+ },
+ {
+  "Name": "Mali",
+  "Christianity": 2.4,
+  "Islam": 94.8,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2.8
+ },
+ {
+  "Name": "Malta",
+  "Christianity": 90,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Mauritania",
+  "Christianity": 0,
+  "Islam": 100,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0
+ },
+ {
+  "Name": "Mauritius",
+  "Christianity": 32.7,
+  "Islam": 0,
+  "Hinduism": 48.5,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 18.8
+ },
+ {
+  "Name": "Mexico",
+  "Christianity": 90.7,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 4.7,
+  "Other": 4.6
+ },
+ {
+  "Name": "Moldova",
+  "Christianity": 95.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 4.5
+ },
+ {
+  "Name": "Mongolia",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 53,
+  "nondenominational": 38.6,
+  "Other": 8.4
+ },
+ {
+  "Name": "Montenegro",
+  "Christianity": 75.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 24.5
+ },
+ {
+  "Name": "Morocco",
+  "Christianity": 0,
+  "Islam": 99,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Mozambique",
+  "Christianity": 56.1,
+  "Islam": 17.9,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 18.7,
+  "Other": 7.3
+ },
+ {
+  "Name": "Myanmar",
+  "Christianity": 4,
+  "Islam": 4,
+  "Hinduism": 89,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3
+ },
+ {
+  "Name": "Namibia",
+  "Christianity": 85,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 15
+ },
+ {
+  "Name": "Nepal",
+  "Christianity": 0,
+  "Islam": 4.4,
+  "Hinduism": 81.3,
+  "Buddhism": 9,
+  "nondenominational": 0,
+  "Other": 5.3
+ },
+ {
+  "Name": "Netherlands",
+  "Christianity": 47,
+  "Islam": 5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 42,
+  "Other": 6
+ },
+ {
+  "Name": "New Zealand",
+  "Christianity": 44.3,
+  "Islam": 0,
+  "Hinduism": 2.1,
+  "Buddhism": 0,
+  "nondenominational": 38.5,
+  "Other": 15.1
+ },
+ {
+  "Name": "Nicaragua",
+  "Christianity": 82.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 15.7,
+  "Other": 1.7
+ },
+ {
+  "Name": "Niger",
+  "Christianity": 0,
+  "Islam": 80,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 20
+ },
+ {
+  "Name": "Nigeria",
+  "Christianity": 40,
+  "Islam": 50,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Dem. Rep. Korea",
+  "Christianity": 0,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 4.5,
+  "nondenominational": 0,
+  "Other": 95.5
+ },
+ {
+  "Name": "Macedonia",
+  "Christianity": 65.2,
+  "Islam": 33.3,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1.5
+ },
+ {
+  "Name": "Norway",
+  "Christianity": 87.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 12.2
+ },
+ {
+  "Name": "Oman",
+  "Christianity": 6.5,
+  "Islam": 85.9,
+  "Hinduism": 5.3,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2.3
+ },
+ {
+  "Name": "Pakistan",
+  "Christianity": 0,
+  "Islam": 95,
+  "Hinduism": 2,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3
+ },
+ {
+  "Name": "Palestine",
+  "Christianity": 0,
+  "Islam": 91,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 9
+ },
+ {
+  "Name": "Panama",
+  "Christianity": 100,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0
+ },
+ {
+  "Name": "Papua New Guinea",
+  "Christianity": 96.4,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.6
+ },
+ {
+  "Name": "Paraguay",
+  "Christianity": 96.9,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.1
+ },
+ {
+  "Name": "Peru",
+  "Christianity": 93.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 2.9,
+  "Other": 3.3
+ },
+ {
+  "Name": "Philippines",
+  "Christianity": 92.5,
+  "Islam": 5,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2.5
+ },
+ {
+  "Name": "Poland",
+  "Christianity": 88.7,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 11.3
+ },
+ {
+  "Name": "Portugal",
+  "Christianity": 84.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 6.8,
+  "Other": 8.9
+ },
+ {
+  "Name": "Puerto Rico",
+  "Christianity": 85,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 15
+ },
+ {
+  "Name": "Qatar",
+  "Christianity": 0,
+  "Islam": 77.5,
+  "Hinduism": 12,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10.5
+ },
+ {
+  "Name": "Congo",
+  "Christianity": 79,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 21
+ },
+ {
+  "Name": "Romania",
+  "Christianity": 92.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 7.4
+ },
+ {
+  "Name": "Russia",
+  "Christianity": 79.6,
+  "Islam": 4,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 7,
+  "Other": 9.4
+ },
+ {
+  "Name": "Rwanda",
+  "Christianity": 93.4,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 3.6,
+  "Other": 3
+ },
+ {
+  "Name": "Saudi Arabia",
+  "Christianity": 0,
+  "Islam": 99,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Senegal",
+  "Christianity": 5,
+  "Islam": 94,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Serbia",
+  "Christianity": 90.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 9.4
+ },
+ {
+  "Name": "Sierra Leone",
+  "Christianity": 10,
+  "Islam": 60,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 30
+ },
+ {
+  "Name": "Singapore",
+  "Christianity": 18.1,
+  "Islam": 14.3,
+  "Hinduism": 5.2,
+  "Buddhism": 33.9,
+  "nondenominational": 16.4,
+  "Other": 12.1
+ },
+ {
+  "Name": "Slovakia",
+  "Christianity": 74,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 13.4,
+  "Other": 12.6
+ },
+ {
+  "Name": "Slovenia",
+  "Christianity": 61,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 13.6,
+  "Other": 25.4
+ },
+ {
+  "Name": "Solomon Is.",
+  "Christianity": 95.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 4.2
+ },
+ {
+  "Name": "Somalia",
+  "Christianity": 0,
+  "Islam": 99.9,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.1
+ },
+ {
+  "Name": "South Africa",
+  "Christianity": 68.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 15.1,
+  "Other": 16.3
+ },
+ {
+  "Name": "Korea",
+  "Christianity": 31.6,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 24.2,
+  "nondenominational": 43.3,
+  "Other": 0.9
+ },
+ {
+  "Name": "S. Sudan",
+  "Christianity": 60.5,
+  "Islam": 6.2,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 33.3
+ },
+ {
+  "Name": "Spain",
+  "Christianity": 94,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 6
+ },
+ {
+  "Name": "Sri Lanka",
+  "Christianity": 7.4,
+  "Islam": 9.7,
+  "Hinduism": 12.6,
+  "Buddhism": 70.2,
+  "nondenominational": 0,
+  "Other": 0.1
+ },
+ {
+  "Name": "Sudan",
+  "Christianity": 5,
+  "Islam": 70,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 25
+ },
+ {
+  "Name": "Suriname",
+  "Christianity": 48,
+  "Islam": 0,
+  "Hinduism": 27.4,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 24.6
+ },
+ {
+  "Name": "Sweden",
+  "Christianity": 87,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 13
+ },
+ {
+  "Name": "Switzerland",
+  "Christianity": 70.8,
+  "Islam": 4.9,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 21.4,
+  "Other": 2.9
+ },
+ {
+  "Name": "Syria",
+  "Christianity": 10,
+  "Islam": 89,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Taiwan",
+  "Christianity": 4.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 49,
+  "nondenominational": 0,
+  "Other": 46.5
+ },
+ {
+  "Name": "Tajikistan",
+  "Christianity": 0,
+  "Islam": 90,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 10
+ },
+ {
+  "Name": "Thailand",
+  "Christianity": 0,
+  "Islam": 4.9,
+  "Hinduism": 92,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3.1
+ },
+ {
+  "Name": "Togo",
+  "Christianity": 29,
+  "Islam": 20,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 51
+ },
+ {
+  "Name": "Trinidad and Tobago",
+  "Christianity": 55.2,
+  "Islam": 0,
+  "Hinduism": 18.2,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 26.6
+ },
+ {
+  "Name": "Tunisia",
+  "Christianity": 0,
+  "Islam": 99.1,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 0.9
+ },
+ {
+  "Name": "Turkey",
+  "Christianity": 0,
+  "Islam": 99,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 1
+ },
+ {
+  "Name": "Turkmenistan",
+  "Christianity": 9,
+  "Islam": 89,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2
+ },
+ {
+  "Name": "Uganda",
+  "Christianity": 83.9,
+  "Islam": 12.1,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 4
+ },
+ {
+  "Name": "Ukraine",
+  "Christianity": 88.8,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 11.2
+ },
+ {
+  "Name": "United Arab Emirates",
+  "Christianity": 9,
+  "Islam": 76,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 15
+ },
+ {
+  "Name": "United Kingdom",
+  "Christianity": 67,
+  "Islam": 4.4,
+  "Hinduism": 1.3,
+  "Buddhism": 0,
+  "nondenominational": 25.7,
+  "Other": 1.6
+ },
+ {
+  "Name": "United States",
+  "Christianity": 78.5,
+  "Islam": 0,
+  "Hinduism": 1,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 20.5
+ },
+ {
+  "Name": "Uruguay",
+  "Christianity": 58.2,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 31.6,
+  "Other": 10.2
+ },
+ {
+  "Name": "Uzbekistan",
+  "Christianity": 9,
+  "Islam": 88,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 3
+ },
+ {
+  "Name": "Vanuatu",
+  "Christianity": 82.4,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 17.6
+ },
+ {
+  "Name": "Venezuela",
+  "Christianity": 98,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2
+ },
+ {
+  "Name": "Vietnam",
+  "Christianity": 8.3,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 12.2,
+  "nondenominational": 73.2,
+  "Other": 6.3
+ },
+ {
+  "Name": "Yemen",
+  "Christianity": 0,
+  "Islam": 98,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 2
+ },
+ {
+  "Name": "Zambia",
+  "Christianity": 95.5,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 0,
+  "Other": 4.5
+ },
+ {
+  "Name": "Zimbabwe",
+  "Christianity": 92.7,
+  "Islam": 0,
+  "Hinduism": 0,
+  "Buddhism": 0,
+  "nondenominational": 6.1,
+  "Other": 1.2
+ },
+ {
+  "Name": "World",
+  "Christianity": 29.3,
+  "Islam": 24,
+  "Hinduism": 15.2,
+  "Buddhism": 4.9,
+  "nondenominational": 14,
+  "Other": 12.6
+ }
+]
